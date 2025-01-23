@@ -1,5 +1,6 @@
 # SpeechEmotion
-Abstract
+Abstract:
+
 The goal of speech emotion recognition (SER), a significant research field, is to 
 detect a speaker’s emotional state from their speech signal. Deep learning 
 methods have significantly increased accuracy when employed for SER in recent 
@@ -14,7 +15,8 @@ Keywords: MLP, Mel Frequency Cepstral Coefficients (MFCC), Speech Signal,
 Support Vector Machines (SVM), Accuracy, Cross-Validation, Speech 
 Transcripts.
 
-Introduction
+Introduction:
+
 Speech emotion recognition is a rapidly growing field that aims to develop 
 systems that can automatically recognize emotions in speech. This technology 
 has the potential to improve human-computer interactions in a wide range of 
